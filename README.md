@@ -208,6 +208,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Openfort](https://github.com/openfort-xyz/mcp)** - Supercharge your AI assistant with plug-and-play access to authentication, project scaffolding, and smart wallet tooling.
 - **[Oxylabs](https://github.com/oxylabs/oxylabs-mcp)** - Scrape websites with Oxylabs Web API, supporting dynamic rendering and parsing for structured data extraction.
 - **[PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/deployment/mcp_server.html)** - An MCP server that brings enterprise-grade OCR and document parsing capabilities to AI applications.
+- **[Passim AI](https://passimai.com)** - Official remote MCP server (`https://mcp.biaedge.com/mcp`) for U.S. immigration law research: 1.19M+ BIA, AAO, federal circuit, district, and Supreme Court decisions, INA/CFR, USCIS Policy Manual, ImmCite citator, 46 state criminal codes, EOIR judge stats, and mandamus dockets.
 - **[PayPal](https://github.com/paypal/agent-toolkit)** - The PayPal Model Context Protocol server allows you to integrate with PayPal APIs through function calling. This protocol supports various tools to interact with different PayPal services.
 - **[Pearl](https://mcp.pearl.com)** - Official MCP Server to interact with Pearl API. Connect your AI Agents with 12,000+ certified experts instantly.
 - **[Pearch](https://github.com/Pearch-ai/mcp_pearch)** - Best people search engine that reduces the time spent on talent discovery.
